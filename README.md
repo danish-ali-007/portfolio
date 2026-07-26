@@ -1,16 +1,96 @@
-# React + Vite
+# 🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive personal portfolio website built using React.js, Vite, and Tailwind CSS to showcase my projects, technical skills, resume, and contact information.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-portfolio.vercel.app
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Portfolio Screenshot](public/projects/portfolio.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive Design
+- Modern UI/UX
+- About Me Section
+- Skills Showcase
+- Project Gallery
+- Resume Download
+- Contact Form (Formspree)
+- GitHub & LinkedIn Links
+- Smooth Animations
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Formspree
+- React Icons
+- Lucide React
+
+---
+
+## 📂 Projects Included
+
+### 💰 Expense Tracker
+- MERN Stack Application
+- User Authentication
+- Income & Expense Management
+- Interactive Dashboard
+
+### 🤖 AI Healthcare Chatbot
+- AI-powered Healthcare Assistant
+- Intelligent Responses
+- Modern Chat Interface
+
+### 📊 Walmart Sales Analysis
+- Python & SQL
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Insights
+
+### 🌐 Portfolio Website
+- Responsive Design
+- Project Showcase
+- Resume Download
+- Contact Form
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+
+cd portfolio
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+**Danish Ali**
+
+📧 danishqwerty01@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/danishali0786/
+
+💻 GitHub:
+https://github.com/danish-ali-007
+
+---
+
+## ⭐ If you like this project, don't forget to star the repository.
